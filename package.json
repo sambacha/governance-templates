@@ -7,8 +7,13 @@
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "npx prettier --write !(package*).json, .*.json, lib/**/*.json, *.yml"
   },
   "author": "SEE CONTRIBUTORS",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "glob": "^7.1.6",
+    "markdownlint": "^0.22.0",
+    "prettier": "^2.2.1"
+  }
 }
