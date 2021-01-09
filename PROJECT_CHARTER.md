@@ -1,6 +1,6 @@
 # [Project Name] Charter
 
-This Project Charter establishes the terms under which this FINOS Project will
+This Project Charter establishes the terms under which this ${GITHUB_ORG} Project will
 operate. By Joining the Project or any Working Group, each Participant agrees to
 be bound by the terms of this Charter and the policies listed in Section 1.2.
 
@@ -12,13 +12,13 @@ be bound by the terms of this Charter and the policies listed in Section 1.2.
 [Initial Steering Members]
 
 1.3. Project Initiation. The Project will become effective upon ratification of
-this Charter by FINOS and the Joining of 2 Steering Members. New parties may
+this Charter by ${GITHUB_ORG} and the Joining of 2 Steering Members. New parties may
 Join the Project upon Approval of the Steering Members.
 
 1.4. Applicable Policies. This Project and all Participants are subject to the
-FINOS Charter, Intellectual Property Policy ("IP Policy"), Antitrust Policy,
-Code of Conduct, and any other FINOS or Linux Foundation policy that by its
-terms applies to all FINOS projects.
+${GITHUB_ORG} Charter, Intellectual Property Policy ("IP Policy"), Antitrust Policy,
+Code of Conduct, and any other ${GITHUB_ORG} or Linux Foundation policy that by its
+terms applies to all ${GITHUB_ORG} projects.
 
 2\. Membership Levels. The Project will include the following levels of
 membership, each referred to as a "Participant":
@@ -128,7 +128,7 @@ Deliverable may be submitted to another standards development organization
 without Approval by the Steering Members. Upon Approval by the Steering Members,
 the Chair(s) will coordinate the submission of the applicable Draft Deliverable
 or Approved Deliverable to another standards development organization with
-FINOS. Working Group Participants that developed that Draft Deliverable or
+${GITHUB_ORG}. Working Group Participants that developed that Draft Deliverable or
 Approved Deliverable agree to grant the copyright rights necessary to make those
 submissions.
 
@@ -136,7 +136,7 @@ submissions.
 
 8.1. Term. This Project Charter shall remain in effect until the Steering
 Committee votes to terminate the Project as described in Section 8.3 below, or,
-if at any time the Project is inactive for more than 1 year, FINOS may terminate
+if at any time the Project is inactive for more than 1 year, ${GITHUB_ORG} may terminate
 the Project with notice to all Participants.
 
 8.2. Withdrawal or Termination. A Participant may withdraw from a Working Group
@@ -148,7 +148,7 @@ Working Group.
 
 8.3. Project Termination. Upon a Supermajority Vote of the Steering Members, the
 Project will cease and terminate as of the effective date designated in that
-vote. The Chair(s) will coordinate with FINOS to facilitate that termination.
+vote. The Chair(s) will coordinate with ${GITHUB_ORG} to facilitate that termination.
 
 8.4. Effect of Withdrawal or Termination. Upon a Participant's written
 withdrawal from a Working Group or upon the termination of its Project
@@ -228,7 +228,7 @@ Project or a Working Group.
 12.8. "Participant" means a Steering Member or Contributor.
 
 12.9. "Project" means the Project that is established under this Project Charter
-as a FINOS standards project.
+as a ${GITHUB_ORG} standards project.
 
 12.10. "Scope" means a description of the deliverables that a given Working
 Group will develop as set forth in that Working Group's Charter.

@@ -1,9 +1,9 @@
-# Meetings of FINOS projects
+# Meetings of ${GITHUB_ORG} projects
 
 This document describes requirements and recommendations for holding meetings of
-FINOS projects, special-interest groups (SIGs), working groups, and other
+${GITHUB_ORG} projects, special-interest groups (SIGs), working groups, and other
 bodies. Note that individual projects may have their own meeting requirements,
-in which case those should be followed except where they conflict with any FINOS
+in which case those should be followed except where they conflict with any ${GITHUB_ORG}
 policy.
 
 ## Schedule the meeting
@@ -11,7 +11,7 @@ policy.
 - Organizers **should** schedule meetings at least 7 days in advance, preferably
   at a time that works for most participants.
 - Organizers **should** use WebEx for teleconferences unless all members are
-  able to use another system. The FINOS team can help to schedule a call on the
+  able to use another system. The ${GITHUB_ORG} team can help to schedule a call on the
   Foundation's WebEx system.
 
 ## Prepare and circulate an agenda
@@ -20,7 +20,7 @@ policy.
   topics to be discussed and decisions to be made at the meeting, and circulate
   the agenda via the group's preferred communication channel.
 - See this
-  [sample agenda](https://finosfoundation.atlassian.net/wiki/spaces/FINOS/pages/859537570/%5BSample+Agenda%5D+2019-04-01+XYZ+WG+Meeting+Notes)
+  [sample agenda](https://finosfoundation.atlassian.net/wiki/spaces/${GITHUB_ORG}/pages/859537570/%5BSample+Agenda%5D+2019-04-01+XYZ+WG+Meeting+Notes)
   for an example.
 
 ## Keep minutes
@@ -39,7 +39,7 @@ policy.
   to speak candidly.
 - Minutes **should** be concise records of the important parts of the meeting.
   They should not be an exhaustive transcript. (See
-  [this example](https://finosfoundation.atlassian.net/wiki/spaces/FINOS/pages/863207445/%5BSample+Minutes%5D+2019-04-01+XYZ+WG+Meeting+Notes).)
+  [this example](https://finosfoundation.atlassian.net/wiki/spaces/${GITHUB_ORG}/pages/863207445/%5BSample+Minutes%5D+2019-04-01+XYZ+WG+Meeting+Notes).)
 - Organizers **must** post a public link to meeting minutes after the meeting.
 
 ## Run the meeting

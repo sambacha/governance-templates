@@ -1,8 +1,8 @@
-# FINOS Community Code of Conduct
+# ${GITHUB_ORG} Community Code of Conduct
 
 ## Overview
 
-The Fintech Open Source Foundation ("FINOS" or the "Foundation") community is
+The Fintech Open Source Foundation ("${GITHUB_ORG}" or the "Foundation") community is
 comprised of professionals and volunteers from all over the world, working in
 many different capacities including writing code, leading working groups,
 managing events, and more.
@@ -14,7 +14,7 @@ participants in the Foundation's work. It is not intended to serve as an
 exhaustive list of prohibited behavior, but rather, a set of principles for
 maintaining a healthy and inclusive community.
 
-This code of conduct applies to all activities managed by FINOS. This includes
+This code of conduct applies to all activities managed by ${GITHUB_ORG}. This includes
 the Foundation's developer pod, mailing lists, Jira, Confluence, GitHub
 resources, conference calls, in-person events, and any other forum established
 or managed by the Foundation for community collaboration. In some cases,
@@ -28,7 +28,7 @@ participants, sponsors, and vendors.
 ## Reporting Violations
 
 If you observe or are subject to a violation of these rules at a Foundation
-event, please report the matter to any FINOS representative on-site. Please
+event, please report the matter to any ${GITHUB_ORG} representative on-site. Please
 report any other code of conduct violations by emailing conduct@finos.org. We
 are committed to protecting the safety and privacy of anyone who reports a
 violation.

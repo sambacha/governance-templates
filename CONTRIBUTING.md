@@ -1,9 +1,9 @@
 # {project name} Contribution and Governance Policies
 
 This document describes the contribution process and governance policies of the
-FINOS {project name} project. The project is also governed by the
+${GITHUB_ORG} {project name} project. The project is also governed by the
 [Linux Foundation Antitrust Policy](https://www.linuxfoundation.org/antitrust-policy/),
-and the FINOS
+and the ${GITHUB_ORG}
 [IP Policy](https://github.com/finos/community/blob/master/governance/IP-Policy.pdf),
 [Code of Conduct](https://github.com/finos/community/blob/master/governance/Code-of-Conduct.md),
 [Collaborative Principles](https://github.com/finos/community/blob/master/governance/Collaborative-Principles.md),
@@ -25,8 +25,8 @@ Before making a contribution, please take the following steps:
 5. Submit a pull request.
 
 NOTE: All contributors must have a contributor license agreement (CLA) on file
-with FINOS before their pull requests will be merged. Please review the FINOS
-[contribution requirements](https://finosfoundation.atlassian.net/wiki/spaces/FINOS/pages/75530375/Contribution+Compliance+Requirements)
+with ${GITHUB_ORG} before their pull requests will be merged. Please review the ${GITHUB_ORG}
+[contribution requirements](https://finosfoundation.atlassian.net/wiki/spaces/${GITHUB_ORG}/pages/75530375/Contribution+Compliance+Requirements)
 and submit (or have your employer submit) the required CLA before submitting a
 pull request.
 
@@ -42,9 +42,9 @@ The project community consists of Contributors and Maintainers:
 - A **Maintainer** is a Contributor who, by virtue of their contribution
   history, has been given write access to project repositories and may merge
   approved contributions.
-- The **Lead Maintainer** is the project's interface with the FINOS team and
+- The **Lead Maintainer** is the project's interface with the ${GITHUB_ORG} team and
   Board. They are responsible for approving
-  [quarterly project reports](https://finosfoundation.atlassian.net/wiki/spaces/FINOS/pages/93225748/Board+Reporting+and+Program+Health+Checks)
+  [quarterly project reports](https://finosfoundation.atlassian.net/wiki/spaces/${GITHUB_ORG}/pages/93225748/Board+Reporting+and+Program+Health+Checks)
   and communicating on behalf of the project. The Lead Maintainer is elected by
   a vote of the Maintainers.
 
